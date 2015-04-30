@@ -1,14 +1,12 @@
-Trellis Desk
+CélulaCRM - Trellis Desk
 ============
 
 What is Trellis Desk?
 ---------------------
 
-Trellis Desk is a powerful and robust help desk solution for your business.
-Improve your company's service by allowing your customers to quickly and easily
-submit support tickets to your team.  Trellis Desk sports a range of advanced
-features that enable your business to handle customer support more efficiently.
-Plus, it's completely free – you'll never have to pay any license fees to use
+CélulaCRM é uma ferramenta originada pelo Trellis Desk da Accord5. Esta, por sua vez, é uma solução de help desk poderosa e robusta para qualquer negócio. Ela nelhorar o serviço da empresa, permitindo que atenda os seus clientes de forma rápida. Trellis Desk ostenta uma gama de avançadas 
+características que permitem sua empresa para lidar com o suporte ao cliente de forma mais eficiente .
+Além disso, é completamente livre - você nunca terá que pagar quaisquer taxas de licença para usar
 Trellis Desk.
 
 
